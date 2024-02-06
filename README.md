@@ -10,7 +10,7 @@ A Flutter application that allows users to browse and explore GitHub repositorie
 * Data refresh from the API is limited to once every 30 minutes.
 * Allows sorting of the repository list by last updated date-time or star count.
 * Persists the selected sorting option for future app sessions.
-* Navigates to a repository details page by clicking on an item from the list.
+* Navigate to a repository details page by clicking on an item from the list.
 * Displays detailed information about a repository, including owner's name, photo, description, and last update date-time.
 
 # License
